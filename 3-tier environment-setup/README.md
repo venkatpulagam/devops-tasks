@@ -12,5 +12,12 @@ Data tier: Storage media (for example, databases, object stores, caches and file
 Here I would perfer to using the aws cloud and terraform scripts for auto infra setup. 
 
 
+Prerequisites:
+Basic knowledge of AWS & Terraform
+AWS account
+AWS Access & Secret Key
+
+
+
 
 
