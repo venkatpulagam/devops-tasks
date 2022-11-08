@@ -9,5 +9,8 @@ Logic tier: Code required to translate user actions to application functionality
 
 Data tier: Storage media (for example, databases, object stores, caches and file systems) that hold the data relevant to the application.
 
+Here I would perfer to using the aws cloud and terraform scripts for auto infra setup. 
+
+
 
 
