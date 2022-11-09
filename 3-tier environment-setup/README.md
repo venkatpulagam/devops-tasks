@@ -8,7 +8,7 @@ The three-tier architecture is the most popular implementation of a multi-tier a
 
 **Data tier:** Storage media (for example, databases, object stores, caches and file systems) that hold the data relevant to the application.
 
-**Here I would perfer to using the aws cloud and terraform scripts for auto infra setup.Here I would perfer to using the aws cloud and terraform scripts for auto infra setup.**
+**Here I would perfer to using the aws cloud and terraform scripts for auto infra setup.**
 ### Prerequisites:
 
 * Basic knowledge of AWS & Terraform
