@@ -172,7 +172,6 @@ The three-tier architecture is the most popular implementation of a multi-tier a
   }
   ```
 
-* I have used the userdata to configure the EC2 instance, I will discuss data.sh file later in the article
 
 **Step 6:- Create a file for Security Group for the FrontEnd tier**
 
